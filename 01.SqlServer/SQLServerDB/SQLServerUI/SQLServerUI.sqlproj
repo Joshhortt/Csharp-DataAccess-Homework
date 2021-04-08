@@ -62,6 +62,7 @@
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\StoredProcedures" />
     <Folder Include="Compares" />
+    <Folder Include="PostPublishScripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Person.sql" />
@@ -75,5 +76,8 @@
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="SQLServerUI.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="PostPublishScripts\Script.PostDeployPerson.sql" />
   </ItemGroup>
 </Project>

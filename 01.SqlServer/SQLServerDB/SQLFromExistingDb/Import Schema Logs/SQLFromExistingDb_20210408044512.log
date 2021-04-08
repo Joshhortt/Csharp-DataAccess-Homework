@@ -1,0 +1,84 @@
+08/04/2021 17:45:12	This log contains information about the import schema operation into project 'SQLFromExistingDb' on computer 'JOSH' by user 'josec'.
+08/04/2021 17:45:12	Import of database schema has started.
+08/04/2021 17:45:19	Gathering database credentials
+08/04/2021 17:45:19	Gathering database options
+08/04/2021 17:45:19	Gathering users
+08/04/2021 17:45:19	Gathering roles
+08/04/2021 17:45:19	Gathering application roles
+08/04/2021 17:45:19	Gathering role memberships
+08/04/2021 17:45:19	Gathering filegroups
+08/04/2021 17:45:19	Gathering full-text catalogs
+08/04/2021 17:45:19	Gathering assemblies
+08/04/2021 17:45:19	Gathering certificates
+08/04/2021 17:45:19	Gathering asymmetric keys
+08/04/2021 17:45:19	Gathering symmetric keys
+08/04/2021 17:45:19	Gathering encrypted symmetric keys
+08/04/2021 17:45:19	Gathering schemas
+08/04/2021 17:45:19	Gathering XML schema collections
+08/04/2021 17:45:19	Gathering user-defined data types
+08/04/2021 17:45:19	Gathering user-defined types
+08/04/2021 17:45:19	Gathering table types
+08/04/2021 17:45:19	Gathering unique keys for table types
+08/04/2021 17:45:19	Gathering primary keys for table types
+08/04/2021 17:45:19	Gathering indexes for table types
+08/04/2021 17:45:19	Gathering check constraints for table types
+08/04/2021 17:45:19	Gathering default constraints for table types
+08/04/2021 17:45:19	Gathering partition functions
+08/04/2021 17:45:19	Gathering partition schemes
+08/04/2021 17:45:19	Gathering functions
+08/04/2021 17:45:19	Gathering encrypted functions
+08/04/2021 17:45:19	Gathering aggregates
+08/04/2021 17:45:19	Gathering procedures
+08/04/2021 17:45:19	Gathering encrypted procedures
+08/04/2021 17:45:19	Gathering tables
+08/04/2021 17:45:19	Gathering primary keys
+08/04/2021 17:45:19	Gathering unique constraints
+08/04/2021 17:45:19	Gathering foreign keys
+08/04/2021 17:45:19	Gathering default constraints
+08/04/2021 17:45:19	Gathering check constraints
+08/04/2021 17:45:19	Gathering views
+08/04/2021 17:45:19	Gathering encrypted views
+08/04/2021 17:45:19	Gathering indexes
+08/04/2021 17:45:19	Gathering statistics
+08/04/2021 17:45:19	Gathering full-text index stoplists
+08/04/2021 17:45:19	Gathering search property lists
+08/04/2021 17:45:19	Gathering search properties
+08/04/2021 17:45:19	Gathering full-text indexes
+08/04/2021 17:45:19	Gathering column store indexes
+08/04/2021 17:45:19	Gathering spatial indexes
+08/04/2021 17:45:19	Gathering XML indexes
+08/04/2021 17:45:19	Gathering Selective XML indexes
+08/04/2021 17:45:19	Gathering encrypted triggers
+08/04/2021 17:45:19	Gathering triggers
+08/04/2021 17:45:19	Gathering encrypted and clr ddl triggers
+08/04/2021 17:45:19	Gathering ddl triggers
+08/04/2021 17:45:19	Gathering synonyms
+08/04/2021 17:45:19	Gathering defaults
+08/04/2021 17:45:19	Gathering data constraint uddt bindings
+08/04/2021 17:45:19	Gathering rules
+08/04/2021 17:45:19	Gathering data constraint uddt bindings
+08/04/2021 17:45:19	Gathering message types
+08/04/2021 17:45:19	Gathering queues
+08/04/2021 17:45:19	Gathering contracts
+08/04/2021 17:45:19	Gathering services
+08/04/2021 17:45:19	Gathering event notifications
+08/04/2021 17:45:19	Gathering remote service bindings
+08/04/2021 17:45:19	Gathering broker priorities
+08/04/2021 17:45:19	Gathering signatures
+08/04/2021 17:45:19	Gathering data compression options
+08/04/2021 17:45:19	Gathering sequence types
+08/04/2021 17:45:19	Gathering security policies
+08/04/2021 17:45:19	Gather column encryption keys
+08/04/2021 17:45:19	Gathering column master keys
+08/04/2021 17:45:19	Gathering external data sources
+08/04/2021 17:45:19	Gathering external file formats
+08/04/2021 17:45:19	Gathering external tables
+08/04/2021 17:45:19	Gathering extended properties
+08/04/2021 17:45:19	Gathering credentials
+08/04/2021 17:45:19	Gathering logins
+08/04/2021 17:45:19	Gathering server audits
+08/04/2021 17:45:19	Scanning project for duplicate elements
+08/04/2021 17:45:19	Finished duplicate element processing
+08/04/2021 17:45:20	Finished importing database.
+08/04/2021 17:45:20	A summary of the import was saved to the following location: C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLFromExistingDb\Import Schema Logs\SQLFromExistingDb_20210408044512.log
+08/04/2021 17:45:20	Click Finish to continue...
