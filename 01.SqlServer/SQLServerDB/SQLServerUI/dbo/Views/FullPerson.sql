@@ -1,6 +1,6 @@
 ﻿CREATE VIEW [dbo].[FullPerson]
 	AS 
-	SELECT [p].[PersonId] as PersonId, [p].[FirstName], [p].[LastName],
+	SELECT [p].[FirstName], [p].[LastName],
 	[a].[Id] AS AddressId, [a].[StreetAddress], 
 	[a].[City], [a].[State], [a].[ZipCode]
 	from dbo.Person p

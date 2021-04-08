@@ -3,3 +3,7 @@ C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\bin\Debug\SQLServerUI.pdb
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\SQLServerUI.dll
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\SQLServerUI.pdb
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\Model.xml
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\refactor.xml
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\postdeploy.sql
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\01.SqlServer\SQLServerDB\SQLServerUI\obj\Debug\predeploy.sql

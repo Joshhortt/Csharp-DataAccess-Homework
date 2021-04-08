@@ -61,6 +61,7 @@
     <Folder Include="PublishLocations" />
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\StoredProcedures" />
+    <Folder Include="Compares" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Person.sql" />
@@ -70,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="PublishLocations\LocalDemoDBI.publish.xml" />
+    <None Include="Compares\LocalDBCompare.scmp" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="SQLServerUI.refactorlog" />
