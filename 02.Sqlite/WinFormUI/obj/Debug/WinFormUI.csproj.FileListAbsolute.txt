@@ -14,3 +14,5 @@ C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\D
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\DemoDB.db
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\System.Data.SQLite.dll
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\Dapper.dll
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\Dapper.xml

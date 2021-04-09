@@ -25,9 +25,11 @@ namespace WinFormUI
         private void LoadPeopleList()
         {
             // TODO - Get real data here
-            people.Add(new PersonModel { FirstName = "Josh", LastName = "Hortt" });
-            people.Add(new PersonModel { FirstName = "Ana", LastName = "Rebelo" });
-            people.Add(new PersonModel { FirstName = "Alex", LastName = "Calvario" });
+            people = SqliteDataAccess.LoadPeople();
+
+            //people.Add(new PersonModel { FirstName = "Josh", LastName = "Hortt" });
+            //people.Add(new PersonModel { FirstName = "Ana", LastName = "Rebelo" });
+            //people.Add(new PersonModel { FirstName = "Alex", LastName = "Calvario" });
 
             WireUpPeopleList();
         }
@@ -52,11 +54,18 @@ namespace WinFormUI
             p.LastName = lastNameText.Text;
 
             // TODO - do something with this item
-            people.Add(p);
-            WireUpPeopleList();
+
+            SqliteDataAccess.SavePerson(p);
+            //people.Add(p);
+            //WireUpPeopleList();
 
             firstNameText.Text = "";
             lastNameText.Text = "";
         }
-    }
+
+		private void addPersonHeader_Click(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

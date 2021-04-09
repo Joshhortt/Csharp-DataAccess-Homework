@@ -16,7 +16,7 @@ namespace DemoLibrary
 		{
 			using(IDbConnection cnn = new SQLiteConnection(LoadConnectionString()))
 			{
-				var output = cnn.Query<PersonModel>("select * Person", new DynamicParameters());
+				var output = cnn.Query<PersonModel>("select * from Person", new DynamicParameters());
 				return output.ToList();
 			}
 		}
