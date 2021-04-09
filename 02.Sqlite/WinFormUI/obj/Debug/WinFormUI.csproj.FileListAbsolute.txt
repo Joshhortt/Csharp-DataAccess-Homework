@@ -1,0 +1,13 @@
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.PeopleForm.resources
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.pdb
