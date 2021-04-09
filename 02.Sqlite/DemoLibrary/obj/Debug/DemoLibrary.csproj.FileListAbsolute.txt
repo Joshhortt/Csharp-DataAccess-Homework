@@ -3,3 +3,9 @@ C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\Dapper.dll
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\Dapper.xml
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete

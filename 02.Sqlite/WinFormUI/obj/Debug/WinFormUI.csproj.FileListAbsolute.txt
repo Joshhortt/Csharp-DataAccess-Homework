@@ -12,3 +12,5 @@ C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\D
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.exe
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\obj\Debug\WinFormUI.pdb
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\DemoDB.db
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\WinFormUI\bin\Debug\System.Data.SQLite.xml
