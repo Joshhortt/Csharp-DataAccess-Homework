@@ -1,6 +1,5 @@
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\DemoLibrary.dll
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\bin\Debug\DemoLibrary.pdb
-C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\josec\Source\Repos\Csharp-DataAccess-Homework\02.Sqlite\DemoLibrary\obj\Debug\DemoLibrary.pdb
